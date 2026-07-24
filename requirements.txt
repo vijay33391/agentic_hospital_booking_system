@@ -12,3 +12,4 @@ nemoguardrails
 fastapi
 langchain_openai
 portkey_ai
+uvicorn
