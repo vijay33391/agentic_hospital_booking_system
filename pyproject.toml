@@ -5,9 +5,22 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "fastapi",
     "ipykernel>=7.3.0",
+    "langchain",
+    "langchain-core",
+    "langchain-groq",
+    "langchain-mcp-adapters",
+    "langchain-openai",
+    "langgraph",
     "logfire>=4.38.0",
+    "nemoguardrails",
     "numpy>=2.5.1",
     "pandas>=3.0.3",
+    "portkey-ai",
+    "psycopg2-binary",
+    "pydantic",
     "python-dotenv>=1.2.2",
+    "sqlalchemy",
+    "uvicorn",
 ]
