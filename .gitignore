@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+
+.venv/
+venv/
+
+.env
+.env.*
+
+.ipynb_checkpoints/
+
+
+.cache/
+.pycache/
+.cache-loader/
+
+# ==========================================
+# FastAPI/Uvicorn
+# ==========================================
+*.pid
+*.pid.lock
+
+
+# ==========================================
+# Cache
+# ==========================================
+.cache/
+.pycache/
+.cache-loader/
+
+

@@ -1,0 +1,14 @@
+python-dotenv
+pydantic
+sqlalchemy
+langchain 
+langgraph
+langchain_core
+psycopg2-binary
+langchain_groq 
+langchain-mcp-adapters
+logfire
+nemoguardrails
+fastapi
+langchain_openai
+portkey_ai
